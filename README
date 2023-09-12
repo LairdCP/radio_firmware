@@ -1,0 +1,12 @@
+
+checkout with git checkout <version>
+
+available versions:
+
+LRD-REL-10.135.0.6
+    laird-summit60-firmware-pcie-uart-10.135.0.6.tar.bz2
+    laird-summit60-firmware-pcie-usb-10.135.0.6.tar.bz2
+    laird-summit60-firmware-sdio-sdio-10.135.0.6.tar.bz2
+    laird-summit60-firmware-sdio-uart-10.135.0.6.tar.bz2
+    laird-summit60-firmware-usb-uart-10.135.0.6.tar.bz2
+    laird-summit60-firmware-usb-usb-10.135.0.6.tar.bz2
