@@ -1,31 +1,44 @@
 
-checkout with git checkout <version>
+checkout desired version with:
+
+$ git checkout <version>
+
+ie:
+$ git checkout LRD-REL-10.135.0.6
 
 available versions:
 
 LRD-REL-10.135.0.6
-    laird-summit60-firmware-pcie-uart-10.135.0.6.tar.bz2
-    laird-summit60-firmware-pcie-usb-10.135.0.6.tar.bz2
-    laird-summit60-firmware-sdio-sdio-10.135.0.6.tar.bz2
-    laird-summit60-firmware-sdio-uart-10.135.0.6.tar.bz2
-    laird-summit60-firmware-usb-uart-10.135.0.6.tar.bz2
-    laird-summit60-firmware-usb-usb-10.135.0.6.tar.bz2
+    laird-summit60-firmware-pcie-uart
+    laird-summit60-firmware-pcie-usb
+    laird-summit60-firmware-sdio-sdio
+    laird-summit60-firmware-sdio-uart
+    laird-summit60-firmware-usb-uart
+    laird-summit60-firmware-usb-usb
 
 LRD-REL-11.39.0.18
-    laird-60-radio-firmware-pcie-uart-11.39.0.18.tar.bz2   README
-    laird-60-radio-firmware-pcie-usb-11.39.0.18.tar.bz2
-    laird-60-radio-firmware-sdio-sdio-11.39.0.18.tar.bz2
-    laird-60-radio-firmware-sdio-uart-11.39.0.18.tar.bz2
-    laird-60-radio-firmware-usb-uart-11.39.0.18.tar.bz2
-    laird-60-radio-firmware-usb-usb-11.39.0.18.tar.bz2
-    laird-lwb-etsi-firmware-11.39.0.18.tar.bz2
-    laird-lwb-fcc-firmware-11.39.0.18.tar.bz2
-    laird-lwb-jp-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-sdio-div-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-sdio-sa-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-sdio-sa-m2-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-usb-div-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-usb-sa-firmware-11.39.0.18.tar.bz2
-    laird-lwb5plus-usb-sa-m2-firmware-11.39.0.18.tar.bz2
-    laird-lwbplus-firmware-11.39.0.18.tar.bz2
+    laird-60-radio-firmware-pcie-uart
+    laird-60-radio-firmware-pcie-usb
+    laird-60-radio-firmware-sdio-sdio
+    laird-60-radio-firmware-sdio-uart
+    laird-60-radio-firmware-usb-uart
+    laird-60-radio-firmware-usb-usb
+    laird-lwb-etsi-firmware
+    laird-lwb-fcc-firmware
+    laird-lwb-jp-firmware
+    laird-lwb5plus-sdio-div-firmware
+    laird-lwb5plus-sdio-sa-firmware
+    laird-lwb5plus-sdio-sa-m2-firmware
+    laird-lwb5plus-usb-div-firmware
+    laird-lwb5plus-usb-sa-firmware
+    laird-lwb5plus-usb-sa-m2-firmware
+    laird-lwbplus-firmware
+
+LRD-REL-11.39.0.23
+    laird-60-radio-firmware-pcie-uart
+    laird-60-radio-firmware-pcie-usb
+    laird-60-radio-firmware-sdio-sdio
+    laird-60-radio-firmware-sdio-uart
+    laird-60-radio-firmware-usb-uart
+    laird-60-radio-firmware-usb-usb
 
