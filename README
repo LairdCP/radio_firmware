@@ -42,3 +42,12 @@ LRD-REL-11.39.0.23
     laird-60-radio-firmware-usb-uart
     laird-60-radio-firmware-usb-usb
 
+
+LRD-REL-11.92.0.20
+	laird-60-radio-firmware-pcie-uart
+	laird-60-radio-firmware-pcie-usb
+	laird-60-radio-firmware-sdio-sdio
+	laird-60-radio-firmware-sdio-uart
+	laird-60-radio-firmware-usb-uart
+	laird-60-radio-firmware-usb-usb
+	laird-som8mp-radio-firmware
