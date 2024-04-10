@@ -71,3 +71,24 @@ LRD-REL-11.171.0.24
 	laird-lwb5plus-usb-sa-firmware
 	laird-lwb5plus-usb-sa-m2-firmware
 	laird-lwbplus-firmware
+
+LRD-REL-11.171.0.28 - support for BD-SDMAC radio only
+	laird-60-radio-firmware-pcie-uart
+	laird-60-radio-firmware-pcie-usb
+	laird-60-radio-firmware-sdio-sdio
+	laird-60-radio-firmware-sdio-uart
+	laird-60-radio-firmware-usb-uart
+	laird-60-radio-firmware-usb-usb
+    laird-bdsdmac-firmware
+	laird-if573-pcie-firmware
+	laird-if573-sdio-firmware
+	laird-lwb-etsi-firmware
+	laird-lwb-fcc-firmware
+	laird-lwb-jp-firmware
+	laird-lwb5plus-sdio-div-firmware
+	laird-lwb5plus-sdio-sa-firmware
+	laird-lwb5plus-sdio-sa-m2-firmware
+	laird-lwb5plus-usb-div-firmware
+	laird-lwb5plus-usb-sa-firmware
+	laird-lwb5plus-usb-sa-m2-firmware
+	laird-lwbplus-firmware
