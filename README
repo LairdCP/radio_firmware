@@ -79,7 +79,7 @@ LRD-REL-11.171.0.28 - support for BD-SDMAC radio only
 	laird-60-radio-firmware-sdio-uart
 	laird-60-radio-firmware-usb-uart
 	laird-60-radio-firmware-usb-usb
-	laird-bdsdmac-firmware
+    laird-bdsdmac-firmware
 	laird-if573-pcie-firmware
 	laird-if573-sdio-firmware
 	laird-lwb-etsi-firmware
@@ -100,7 +100,6 @@ LRD-REL-12.29.0.22
 	summit-60-radio-firmware-sdio-uart
 	summit-60-radio-firmware-usb-uart
 	summit-60-radio-firmware-usb-usb
-	summit-bdsdmac-firmware
 	summit-if573-pcie-firmware
 	summit-if573-sdio-firmware
 	summit-lwb5plus-sdio-div-firmware
